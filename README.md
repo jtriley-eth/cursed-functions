@@ -1,4 +1,4 @@
-# Funcy Sol
+# Cursed Functions
 
 > Note: This could actually be really cool internally in some modular protocol, this is just to
 > showcase how weird it can get.
